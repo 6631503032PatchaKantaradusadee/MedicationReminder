@@ -1,8 +1,8 @@
 **ชื่อ - นามสกุล (Full Name):** Patcha Kantaradusadee
 
-**รหัสนักศึกษา (Student ID):**  6631503032
+**รหัสนักศึกษา (Student ID):** 6631503032
 
-**ชื่อแอป (App Name):**  
+**ชื่อแอป (App Name):** MedicationReminder
 
 **Framework ที่ใช้ (Framework Used):** React Native
 
