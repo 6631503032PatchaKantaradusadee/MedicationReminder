@@ -8,7 +8,7 @@
 
 **ลิงก์ GitHub Repository:** https://github.com/6631503032PatchaKantaradusadee/MedicationReminder
 
-**ลิงก์ไฟล์ติดตั้ง (APK/IPA):** https://expo.dev/accounts/thanaruktk/projects/MedicationReminder/builds/079afcc9-a1ed-4c7c-98c0-5b3ef58e89ea
+**ลิงก์ไฟล์ติดตั้ง (APK/IPA):** https://expo.dev/accounts/memintt/projects/MedicationReminder/builds/079afcc9-a1ed-4c7c-98c0-5b3ef58e89ea
 
 ---
 
