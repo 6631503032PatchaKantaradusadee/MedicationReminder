@@ -60,7 +60,7 @@ Persona 2:
 ```markdown
 - React Native
 - Expo
-- Package: Provider, SharedPreferences, react-navigation, react-native-gesture-handler, react-native-modalize, react-native-reanimated, react-native-safe-area-context, react-native-screens, react-native-async-storage, react-native-picker-select, react-native-community/datetimepicker
+- Package: Provider, SharedPreferences, react-navigation,react-native-screens, react-native-safe-area-context, react-native-gesture-handler, react-native-modalize, react-native-reanimated, react-native-safe-area-context, react-native-screens, react-native-async-storage, react-native-picker/picker,
 
 ```
 
